@@ -1,0 +1,30 @@
+{
+  "name": "projet-rag",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "eval": "tsx eval.ts",
+    "ingest": "tsx ingest.ts",
+    "query": "tsx query.ts",
+    "calibrate": "tsx calibrate.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^26.2.0",
+    "@types/pdf-parse": "^1.1.5",
+    "@types/pg": "^8.23.1",
+    "tsx": "^4.23.12",
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "@google/genai": "^2.17.1",
+    "dotenv": "^17.4.2",
+    "pdf-parse": "^2.4.5",
+    "pg": "^8.23.0"
+  }
+}

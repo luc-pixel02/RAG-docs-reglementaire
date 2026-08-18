@@ -1,0 +1,26 @@
+[
+  {
+    "question": "Quelle est la mission principale de l'ACPR selon le code monétaire et financier ?",
+    "expected": "Veiller à la préservation de la stabilité du système financier et à la protection des clients, assurés, adhérents et bénéficiaires des personnes soumises à son contrôle."
+  },
+  {
+    "question": "Combien de membres compose le collège de supervision de l'ACPR ?",
+    "expected": "19 membres, présidé par le Gouverneur de la Banque de France."
+  },
+  {
+    "question": "Combien de membres compose la commission des sanctions de l'ACPR ?",
+    "expected": "6 membres, tous différents des membres du collège de supervision."
+  },
+  {
+    "question": "Quel délai est en principe accordé à la personne contrôlée pour faire valoir ses observations écrites sur le projet de rapport ?",
+    "expected": "En principe 15 jours calendaires au moins."
+  },
+  {
+    "question": "Quelle sanction pénale encourt un contrôleur en cas de violation du secret professionnel ?",
+    "expected": "Jusqu'à un an d'emprisonnement et 15 000 euros d'amende."
+  },
+  {
+    "question": "Pendant combien d'années un ancien contrôleur de l'ACPR reste-t-il soumis à des obligations spécifiques après avoir quitté ses fonctions ?",
+    "expected": "Trois ans."
+  }
+]
