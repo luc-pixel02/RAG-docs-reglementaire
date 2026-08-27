@@ -50,10 +50,10 @@ npx tsx query.ts "Combien de membres compose le collège de supervision de l'ACP
 
 ## Fichiers
 
-- `ingest.ts` — découpe le PDF en chunks, calcule les vecteurs, insère en base
-- `rag.ts`    — le moteur RAG (question -> réponse), utilisé par query.ts et eval.ts
-- `query.ts`  — pose une question en ligne de commande
-- `eval.ts`   — teste le RAG sur un jeu de questions (`dataset.json`) avec un LLM-judge (GEMINI)
+- `ingest.ts` - découpe le PDF en chunks, calcule les vecteurs, insère en base
+- `rag.ts`    - le moteur RAG (question -> réponse), utilisé par query.ts et eval.ts
+- `query.ts`  - pose une question en ligne de commande
+- `eval.ts`   - teste le RAG sur un jeu de questions (`dataset.json`) avec un LLM-judge (GEMINI)
 
 ## Note
 
